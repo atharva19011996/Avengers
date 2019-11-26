@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SuperPowerState
+comment0.text=\n\ Write\ a\ description\ of\ class\ SuperPowerState\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=psm\ player
+comment1.target=SuperPowerState(PlayerStateMachine,\ Player)
+comment2.params=
+comment2.target=void\ attack()
+comment3.params=
+comment3.target=void\ flipHorizontally()
+comment4.params=
+comment4.target=void\ superPower()
+comment5.params=
+comment5.target=void\ initAnimation()
+comment6.params=
+comment6.target=void\ autoStateChange()
+numComments=7

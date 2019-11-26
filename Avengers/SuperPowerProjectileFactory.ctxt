@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SuperPowerProjectileFactory
+comment0.text=\n\ Write\ a\ description\ of\ class\ SuperPowerProjectileFactory\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SuperPowerProjectileFactory()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SuperPowerProjectileFactory\n
+comment2.params=superprojName\ target
+comment2.target=SuperProjectile\ getSuperProjectile(java.lang.String,\ Enemy)
+numComments=3

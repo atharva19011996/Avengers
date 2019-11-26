@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RotatingMovementStrategy
+comment1.params=isReverse
+comment1.target=RotatingMovementStrategy(int)
+comment2.params=projectile
+comment2.target=void\ setProjectile(Projectile)
+comment3.params=
+comment3.target=void\ moveProjectile()
+comment4.params=
+comment4.target=void\ rotateProjectile()
+comment5.params=speed
+comment5.target=void\ changeSpeed(int)
+comment6.params=s\ e
+comment6.target=int\ getRandomNumber(int,\ int)
+numComments=7

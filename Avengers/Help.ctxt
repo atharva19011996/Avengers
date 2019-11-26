@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Help
+comment0.text=\n\ Write\ a\ description\ of\ class\ Help\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Help()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Help.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ click()
+numComments=4

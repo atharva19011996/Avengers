@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=SoundManager
+comment0.text=\n\ Write\ a\ description\ of\ class\ SoundManager\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SoundManager()
+comment2.params=
+comment2.target=SoundManager\ getInstance()
+comment3.params=src
+comment3.target=void\ setNewSound(java.lang.String)
+comment4.params=
+comment4.target=greenfoot.GreenfootSound\ getSound()
+comment5.params=
+comment5.target=void\ playSound()
+comment6.params=
+comment6.target=void\ stopSound()
+comment7.params=str
+comment7.target=void\ playStaticSound(java.lang.String)
+numComments=8

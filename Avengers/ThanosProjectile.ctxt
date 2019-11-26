@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ThanosProjectile
+comment0.text=\n\ Write\ a\ description\ of\ class\ ThanosProjectile\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=player\ thanosX\ isReverse
+comment1.target=ThanosProjectile(Player,\ int,\ java.lang.Boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getDamage()
+comment4.params=
+comment4.target=void\ hitByHeroProjectile()
+comment5.params=
+comment5.target=void\ setProjectileImage()
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ThanosHealthBar
+comment0.text=\n\ Write\ a\ description\ of\ class\ ThanosHealthBar\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ThanosHealthBar()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=damage
+comment3.target=void\ loseHealth(int)
+comment4.params=damage
+comment4.target=void\ updateScoreBoardHealth(int)
+numComments=5

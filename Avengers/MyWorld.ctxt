@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=player
+comment1.target=MyWorld(Player)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment2.params=
+comment2.target=Player\ getPlayer()
+comment3.params=
+comment3.target=void\ spawnEnemies()
+comment4.params=
+comment4.target=void\ nextLevelProgressCheck()
+comment5.params=
+comment5.target=void\ nextLevelTransition()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

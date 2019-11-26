@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=IProjectileMoveStrategy
+comment1.params=projectile
+comment1.target=void\ setProjectile(Projectile)
+comment1.text=\n\ sets\ the\ projectile\ on\ which\ strategy\ needs\ to\ be\ applied.\n
+comment2.params=
+comment2.target=void\ moveProjectile()
+comment2.text=\n\ moves\ the\ projectile\n
+comment3.params=
+comment3.target=void\ rotateProjectile()
+comment3.text=\n\ rotates\ the\ projectile\n
+comment4.params=speed
+comment4.target=void\ changeSpeed(int)
+comment4.text=\n\ chages\ the\ moving\ speed\ of\ projectile\n
+numComments=5
