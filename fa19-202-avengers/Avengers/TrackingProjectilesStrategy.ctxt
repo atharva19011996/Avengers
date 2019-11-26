@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TrackingProjectilesStrategy
+comment1.params=player\ attacktype
+comment1.target=TrackingProjectilesStrategy(Player,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ isfiringSuperPower()
+comment3.params=
+comment3.target=void\ fireSuperPower()
+comment4.params=
+comment4.target=void\ firingSuperpower()
+numComments=5
