@@ -1,12 +1,5 @@
 # The Avengers Game
 
-## Team Members:  
-Atharva Munshi  
-Chaitanya Naik  
-Kapil Mulchandani  
-Nirmit Jasapara  
-Vijay Ghanshani
-
 ## Click the  link given below to check the the advertisement video for our game 
 
 https://www.youtube.com/watch?v=wgCFhfREaq8   
